@@ -4,7 +4,7 @@
     
 	    System. out. println("Hello Java");
 	    println("created by abhi")
-	println("We want to see revert the changes ")
+	println("We want to see the difference before coomit ")
     }
 
     }
